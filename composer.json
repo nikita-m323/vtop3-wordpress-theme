@@ -1,0 +1,21 @@
+{
+  "authors": [
+    {
+      "email": "nikita.makuha.work@gmail.com",
+      "name": "NikitaMakukha"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    }
+  },
+  "require": {
+
+  },
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true
+    }
+  }
+}
